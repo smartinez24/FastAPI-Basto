@@ -2,8 +2,7 @@
   <img = src = "https://github.com/jpradas1/BASTO-project/blob/main/Images/encabezado.jpg" width = "1000" />
     <h1 align = 'Center'> ¡Proyecto grupal! </>
 </div>
-  
----
+
 <h3> Herramientas usadas: </h3>
 <div>
    <img src = 'https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg' title = 'Slack' alt = 'Slack' width = '40' height = '40' />&nbsp;
