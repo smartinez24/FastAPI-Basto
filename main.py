@@ -5,7 +5,7 @@ import pandas as pd
 
 app = FastAPI()
 
-df = pd.read_csv('../Bastó/All_Harvest.csv').set_index('Fecha')
+df = pd.read_csv('All_Harvest.csv').set_index('Fecha')
 df.dropna(how='all', inplace=True)
 df = pd.DataFrame(df)
 
